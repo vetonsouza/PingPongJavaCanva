@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.principal{
+    display: flex;
+    width: 850px;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    gap: 5px;   
+
+}
+
+.botoes{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ccc;
+    border: 1px solid #000;
+}
+
+.botoes button{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bolder;
+    box-shadow: 4px 4px 7px #000;
+    }
+
+
+canvas{
+    background: url("../img/pingpong.png") no-repeat ;
+    background-position: center;
+    
+    
+}
