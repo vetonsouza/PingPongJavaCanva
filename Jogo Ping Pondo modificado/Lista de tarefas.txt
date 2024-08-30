@@ -1,0 +1,7 @@
+principais problemas a serem resolvidos:
+
+
+1- trocar a quadra padrão
+2- melhorar a velocidade da bola e trocar o formato dela para um círculo
+3-adicionar uma classe de colisão e dentro dessa classe adicionar sons de impacto e/ou uma música durante a partida
+4- criar uma apresentação que mostre as diferenças do jogo base para a minha versão
